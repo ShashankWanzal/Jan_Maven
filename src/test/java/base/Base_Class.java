@@ -17,7 +17,7 @@ public class Base_Class
 	
 	public static void chrome()
 	{
-		
+		// Browser Opening code
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\shash\\OneDrive\\Documents\\chromedriver_win32\\chromedriver.exe");
 		
